@@ -1,5 +1,5 @@
 ## Hi there! 👋
-- 🔭 I’m currently working on Flutter projects
+- 🔭 Working on Flutter projects
 - 🌱 Learning GenAI
 - 🤔 Looking for help from designers and game artists
 
