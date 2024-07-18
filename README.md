@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with designers and game artists
 
 ## Current Project:
-![Card_Cambio](https://github.com/igorricardo20/card_cambio)
+!(https://github.com/igorricardo20/card_cambio)
 
 
 ## 🌐 Socials:
