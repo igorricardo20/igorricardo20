@@ -1,7 +1,6 @@
 ## Hi there! 👋
 - 🔭 Working on Flutter projects
-- 🌱 Learning GenAI
-- 🤔 Looking for help from designers and game artists
+- 🤔 Looking for help from designers
 
 ## Current Project:
 - [CardCambio](https://github.com/igorricardo20/card_cambio)
